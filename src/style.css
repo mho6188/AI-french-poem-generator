@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #d8ccf6;
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -28,7 +28,7 @@ form {
   padding: 30px;
   background-color: white;
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
-  border-radius: 10px;
+  border-radius: 6px;
   display: flex;
   margin-bottom: 30px;
 }
@@ -59,6 +59,7 @@ form {
   background-color: #fff;
   padding: 20px;
   line-height: 2;
+  border-radius: 6px;
   border-left: 3px solid #885df1;
   box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
 }
